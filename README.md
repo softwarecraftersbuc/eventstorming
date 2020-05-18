@@ -1,4 +1,4 @@
-# eventstorming
+# Event storming meetup
 
 The goal is to establish:
  * Domain events
